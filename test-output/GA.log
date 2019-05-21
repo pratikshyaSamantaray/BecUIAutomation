@@ -1654,3 +1654,839 @@ Description: Validate Filters Report Page.
 Test Steps: 
  Report Page Filter Validation
 
+2019-05-15 16:24:06 INFO  Log:88 - TestCase - VerifyReportPageORR, started @ 2019-05-15 16:24:06.133  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-15 16:25:28 INFO  Log:88 - TestCase - VerifyReportPageORR, started @ 2019-05-15 16:25:28.122  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-15 16:26:55 INFO  Log:88 - TestCase - VerifyReportPageORR, started @ 2019-05-15 16:26:55.968  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-16 18:43:54 INFO  Log:88 - TestCase - VerifyReportPageORR, started @ 2019-05-16 18:43:54.650  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-16 18:44:00 ERROR LoginPageOperationORR:82 - no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='field selectBox']"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64347}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 57c8e6cd99eb4749410bc6c9447682e4
+*** Element info: {Using=xpath, value=//select[@class='field selectBox']}
+2019-05-17 12:53:16 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 12:53:16.768  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 12:53:34 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55993}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 1512bc6beb01abf99dc231fc955cba7a
+2019-05-17 12:54:22 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 12:54:22.342  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 12:54:36 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56123}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 651ba7ca0120aa7926404e33f43ba472
+2019-05-17 12:56:49 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 12:56:49.282  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 12:57:08 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56383}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: e35cc0873bc59d14ea54629b2535cc5f
+2019-05-17 13:01:31 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 13:01:31.243  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 13:01:50 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56712}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 5ffac5a08b7dadef309a3ab98f9036c3
+2019-05-17 13:04:32 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 13:04:32.980  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 15:50:46 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 15:50:46.638  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 15:51:22 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <button class="btn btn-rounded filter-bg ">...</button> is not clickable at point (685, 434). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49424}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: feff2f0512aa079eee5c0733f9717ebd
+2019-05-17 15:53:57 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 15:53:57.776  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 15:54:22 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49736}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: d1c88fc407c37f7de8f9ad3360f9255d
+2019-05-17 15:55:52 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 15:55:52.477  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 15:56:17 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49915}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 48b0f0a231c14bab719de12f9376f3a8
+2019-05-17 15:57:34 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 15:57:34.519  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 15:57:59 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50079}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: cc6a3214c27e8f0e09bc47e63e4f5757
+2019-05-17 16:00:06 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:00:06.676  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:00:31 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50328}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 608f00c4bea77680f4ea36adb52bda8b
+2019-05-17 16:01:33 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:01:33.840  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:01:48 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <li class="">...</li> is not clickable at point (852, 200). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50465}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: eb3e761236fdcf087612d4a6a0ab8b06
+2019-05-17 16:15:17 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:15:17.969  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:15:42 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51492}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 4a0265a319b4cfcba7bf52bd21aea2e1
+2019-05-17 16:16:28 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:16:28.892  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:17:03 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51627}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: dea9e515c9af5be4844a930e6c6c80c3
+2019-05-17 16:18:03 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:18:03.275  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:18:17 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <li class="">...</li> is not clickable at point (852, 200). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51795}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: c5d2f02dae9122ba54b4408a7bbe7260
+2019-05-17 16:18:56 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:18:56.476  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:19:32 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <span class="close-icon-title close-filter1">...</span> is not clickable at point (123, 317). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51902}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 197e210168efd1fe39dba3527f44f38f
+2019-05-17 16:20:12 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:20:12.954  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:25:29 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:25:29.659  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:26:04 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52493}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 20b80998219ea883d5820b6e4c852869
+2019-05-17 16:26:42 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:26:42.639  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:27:17 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52617}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: a9b943af8f2a541d067b293c30ee1024
+2019-05-17 16:31:15 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:31:15.220  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:44:37 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:44:37.721  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:54:36 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 16:54:36.059  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-17 16:56:48 ERROR ReportPageOperationsORR:82 - element not interactable
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54648}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 3fb7b1cc3335d0d8b850596fa670f690
+2019-05-17 17:11:51 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-17 17:11:51.285  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 17:50:49 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 17:50:49.930  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 17:50:54 ERROR LoginPageOperationORR:82 - no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='field selectBox']"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59107}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: df2416e28e55ae97004d4af49b7fcaf4
+*** Element info: {Using=xpath, value=//select[@class='field selectBox']}
+2019-05-19 17:54:32 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 17:54:32.792  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 17:54:42 ERROR LoginPageOperationORR:82 - no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='field selectBox']"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59416}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: cb1afc839fff02225ce49bad32df0374
+*** Element info: {Using=xpath, value=//select[@class='field selectBox']}
+2019-05-19 17:54:47 ERROR LoginPageOperationORR:82 - no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='field selectBox']"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59416}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: cb1afc839fff02225ce49bad32df0374
+*** Element info: {Using=xpath, value=//select[@class='field selectBox']}
+2019-05-19 17:54:51 ERROR LoginPageOperationORR:82 - no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='field selectBox']"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59416}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: cb1afc839fff02225ce49bad32df0374
+*** Element info: {Using=xpath, value=//select[@class='field selectBox']}
+2019-05-19 17:54:56 ERROR LoginPageOperationORR:82 - no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='field selectBox']"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59416}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: cb1afc839fff02225ce49bad32df0374
+*** Element info: {Using=xpath, value=//select[@class='field selectBox']}
+2019-05-19 17:58:57 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 17:58:57.809  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 17:59:03 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59715}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: f661022c83043f52b9f9d5377ae32807
+2019-05-19 18:00:05 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:00:05.260  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:03:02 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:03:02.798  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:03:08 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60131}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: df011ac49c8a808b729d6cac37a9029b
+2019-05-19 18:11:18 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:11:18.369  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:11:24 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60897}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 39b8479204873124ac867d8a2395a59a
+2019-05-19 18:15:51 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:15:51.220  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:19:58 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:19:58.575  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:20:04 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62000}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: df99ea449225e8c921a8ef3c6048483a
+2019-05-19 18:27:54 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:27:54.869  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:28:01 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62514}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: d5b4e1c847fbaf62a937e263153b53f6
+2019-05-19 18:34:06 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:34:06.171  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:34:13 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="display-loading-main" style="display: block;">...</div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62887}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: daf85437fc5f8efe7d86d33418302ec8
+2019-05-19 18:43:34 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:43:34.117  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:43:55 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63654}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 3ae69e3d6bab0b9180f6017caa0c9731
+2019-05-19 18:47:06 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 18:47:06.219  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 18:47:26 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63911}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 9be8393b1d7cf39681c9a6ffe3e1a1ec
+2019-05-19 19:19:23 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 19:19:23.755  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 19:19:45 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51143}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 1d5eb54d2e1ae9081151e48b177c73a3
+2019-05-19 20:12:29 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 20:12:29.931  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 20:12:57 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <li class="">...</li> is not clickable at point (852, 200). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54043}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: ea2af219e820001bbdf001d73ae2982c
+2019-05-19 20:16:21 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-19 20:16:21.930  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-19 20:16:43 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <button class="btn btn-rounded filter-bg  filter-hover">...</button> is not clickable at point (192, 402). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54338}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 2bceb9620cc373866e03eb962942acb0
+2019-05-20 07:22:58 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 07:22:58.351  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-20 07:23:14 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="single-filter-text">...</div> is not clickable at point (565, 162). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58510}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 6cdae3352ba06cf2fbb456c650ec3f95
+2019-05-20 07:31:13 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 07:31:13.746  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-20 07:31:36 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <button class="btn btn-rounded filter-bg filter-hover">...</button> is not clickable at point (445, 434). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59066}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 1f460822e84bf833dafb557c6137b93a
+2019-05-20 07:35:54 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 07:35:54.851  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-20 07:41:55 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 07:41:55.420  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-20 07:47:10 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 07:47:10.596  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-20 07:48:03 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 07:48:03.112  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Filter Validation
+
+2019-05-20 09:02:23 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:02:23.064  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Validation
+
+2019-05-20 09:05:27 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:05:27.337  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Validation
+
+2019-05-20 09:07:26 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:07:26.169  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Validation
+
+2019-05-20 09:14:06 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:14:06.753  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Validation
+
+2019-05-20 09:14:28 ERROR ReportPageOperationsORR:82 - no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Fluency']"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:65326}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: c0ac3f5fb83ab75d48629ad26ba0010d
+*** Element info: {Using=xpath, value=//span[text()='Fluency']}
+2019-05-20 09:17:27 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:17:27.455  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Validation
+
+2019-05-20 09:21:43 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:21:43.750  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate Filters Report Page. 
+Test Steps: 
+ Report Page Validation
+
+2019-05-20 09:29:48 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:29:48.778  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:31:43 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:31:43.531  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:32:42 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:32:42.297  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:33:27 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:33:27.136  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:36:59 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:36:59.785  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:45:29 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:45:29.716  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:47:39 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:47:39.398  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:49:20 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:49:20.770  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:51:02 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:51:02.373  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 09:52:12 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 09:52:12.148  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 11:16:13 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 11:16:13.565  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 11:18:08 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 11:18:08.720  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 11:19:33 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 11:19:33.481  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 12:34:00 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 12:34:00.396  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 12:35:43 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 12:35:43.299  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 12:37:03 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 12:37:03.975  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 15:01:10 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 15:01:10.808  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 15:22:53 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 15:22:53.330  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 15:33:26 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 15:33:26.440  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 17:45:12 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 17:45:12.488  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 17:47:08 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 17:47:08.969  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 17:54:56 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 17:54:56.494  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-20 18:59:32 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-20 18:59:32.781  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-21 09:55:44 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-21 09:55:44.719  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-21 10:07:56 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-21 10:07:56.988  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-21 10:08:28 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <div class="action-label apply-btn-pos">...</div> is not clickable at point (1131, 454). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:65162}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 5b7c8a1ccdeef2ffa95ed7c6bdde054c
+2019-05-21 10:09:19 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-21 10:09:19.503  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-21 11:14:07 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-21 11:14:07.676  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+

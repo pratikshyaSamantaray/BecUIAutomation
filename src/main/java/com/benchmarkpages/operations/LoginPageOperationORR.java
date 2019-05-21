@@ -45,8 +45,6 @@ public class LoginPageOperationORR extends BaseControl {
 		try {
 			loginPage = new LoginPageElementsORR();
 			appProperties = FileOperations.getProperties("app.properties");
-			// dropdown=new MSDropDownList(findByType, valueToFindElement, childFindByType,
-			// childTag, subChildFindBy, subChildTag, isChildDiv)
 		} catch (IOException e) {
 			Helper.appendErrorMessage(CLASSNAME, "LoginPageValidationORR -" + "commonInitialization : fail", e);
 		}

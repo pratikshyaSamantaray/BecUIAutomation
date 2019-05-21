@@ -65,7 +65,7 @@ public abstract class BaseUITest {
 		// if (!m_isTestPassed)
 		
 	//SeleniumWrapper.openPage(Global.getValueFromAppProperty(CommonConstants.LOGIN_URL));
-		SeleniumWrapper.openPage("http://localhost:8080");
+		/*SeleniumWrapper.openPage("http://localhost:8080");
 		m_logMessage = new StringBuilder();
 		m_logMessage.append(String.format("TestCase - %s, started @ %s \n", m_currentTestCaseName,
 				CommonUtil.getFormatedDate("yyyy-MM-dd HH:mm:ss.SSS ")));
@@ -73,7 +73,7 @@ public abstract class BaseUITest {
 				"------------------------------------------------------------------------------------------------------------------------- \n");
 		m_logMessage.append(String.format("Description: %s. \nTest Steps: \n", m_currentTestCaseDescription));
 		logFullTestDescription();
-		Log.writeMessage(LogLevel.INFO, m_logMessage.toString());
+		Log.writeMessage(LogLevel.INFO, m_logMessage.toString());*/
 	}
 
 	/**
@@ -97,11 +97,21 @@ public abstract class BaseUITest {
 	 */
 	@BeforeMethod
 	public void beforeMethod() {
+		SeleniumWrapper.openPage("http://localhost:8080");
+		m_logMessage = new StringBuilder();
+		m_logMessage.append(String.format("TestCase - %s, started @ %s \n", m_currentTestCaseName,
+				CommonUtil.getFormatedDate("yyyy-MM-dd HH:mm:ss.SSS ")));
+		m_logMessage.append(
+				"------------------------------------------------------------------------------------------------------------------------- \n");
+		m_logMessage.append(String.format("Description: %s. \nTest Steps: \n", m_currentTestCaseDescription));
+		logFullTestDescription();
+		Log.writeMessage(LogLevel.INFO, m_logMessage.toString());
 		Helper.sleep(4000);
 	}
 
 	@AfterMethod
 	public void afterMethod() {
+		//SeleniumWrapper.webDriver().close();
 		/*SeleniumWrapper.clickEscape();
 		Helper.sleep(2000);
 		Helper.verifyWarningOrOtherPopupAndClose();

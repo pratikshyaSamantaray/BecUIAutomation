@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="1" ignored="2" total="3" passed="0">
   <reporter-output>
     <line>
       <![CDATA[1---->>>>Login Functionality :true]]>
     </line>
+    <line>
+      <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="34709" started-at="2019-05-15T04:30:39Z" finished-at="2019-05-15T04:31:14Z">
+  <suite name="Default suite" duration-ms="38826" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:38:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="34709" started-at="2019-05-15T04:30:39Z" finished-at="2019-05-15T04:31:14Z">
-      <class name="com.benchmark.testcases.home.VerifyReportPageORR">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.benchmark.testcases.home.VerifyReportPageORR@3159c4b8]" name="beforeClass" is-config="true" duration-ms="10290" started-at="2019-05-15T04:30:39Z" finished-at="2019-05-15T04:30:50Z">
+    <test name="Default test" duration-ms="38826" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:38:29Z">
+      <class name="com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="beforeClass" is-config="true" duration-ms="22" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:37:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyReportPageORR@3159c4b8]" name="beforeMethod" is-config="true" duration-ms="4003" started-at="2019-05-15T04:30:50Z" finished-at="2019-05-15T04:30:54Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="beforeMethod" is-config="true" duration-ms="10256" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:38:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="verifyReport_TC2()[pri:0, instance:com.benchmark.testcases.home.VerifyReportPageORR@3159c4b8]" name="verifyReport_TC2" duration-ms="20392" started-at="2019-05-15T04:30:54Z" description="Validate Filters Report Page" finished-at="2019-05-15T04:31:14Z">
+        <test-method status="FAIL" signature="verifyRHO_TC3()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="verifyRHO_TC3" duration-ms="28500" started-at="2019-05-21T04:38:00Z" description="Validate Reading History " finished-at="2019-05-21T04:38:29Z">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Report Functionality : Fail expected [true] but found [false]]]>
+              <![CDATA[Reading History Functionality : Fail expected [true] but found [false]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Report Functionality : Fail expected [true] but found [false]
+              <![CDATA[java.lang.AssertionError: Reading History Functionality : Fail expected [true] but found [false]
 at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertTrue(Assert.java:44)
-at com.benchmark.testcases.home.VerifyReportPageORR.verifyReport_TC2(VerifyReportPageORR.java:28)
+at com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR.verifyRHO_TC3(VerifyOralReadingRecordReportsORR.java:62)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -61,17 +64,20 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             <line>
               <![CDATA[1---->>>>Login Functionality :true]]>
             </line>
+            <line>
+              <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- verifyReport_TC2 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyReportPageORR@3159c4b8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-05-15T04:31:14Z" finished-at="2019-05-15T04:31:14Z">
+        </test-method> <!-- verifyRHO_TC3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-21T04:38:29Z" finished-at="2019-05-21T04:38:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.benchmark.testcases.home.VerifyReportPageORR@3159c4b8]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-05-15T04:31:14Z" finished-at="2019-05-15T04:31:14Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-05-21T04:38:29Z" finished-at="2019-05-21T04:38:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.benchmark.testcases.home.VerifyReportPageORR -->
+      </class> <!-- com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
