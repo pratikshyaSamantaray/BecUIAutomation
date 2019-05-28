@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="2" total="3" passed="0">
+<testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
   <reporter-output>
     <line>
       <![CDATA[1---->>>>Login Functionality :true]]>
@@ -7,21 +7,171 @@
     <line>
       <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
     </line>
+    <line>
+      <![CDATA[***********Defult value for filter validation***************]]>
+    </line>
+    <line>
+      <![CDATA[By defult Instructional is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult English is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult Fiction is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult Nonfiction is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[By defult Unseen is selected :true]]>
+    </line>
+    <line>
+      <![CDATA[***********All values in filter Ribbon validation***************]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Instructional is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter English is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Fiction is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Nonfiction is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Unseen is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Independent is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Frustrational is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Spanish is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[After applying all fiter Seen is visible in Ribbon :true]]>
+    </line>
+    <line>
+      <![CDATA[3---->>>>Filter Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[1---->>>>Login Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[----->>Default sorting validated for date column]]>
+    </line>
+    <line>
+      <![CDATA[----->>Sorting of Date column validated]]>
+    </line>
+    <line>
+      <![CDATA[----->>Sorting of Proficiency column validated]]>
+    </line>
+    <line>
+      <![CDATA[----->>Sorting last passage column validated]]>
+    </line>
+    <line>
+      <![CDATA[----->>Sorting Category column validation failed]]>
+    </line>
+    <line>
+      <![CDATA[1---->>>>Login Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+    </line>
+    <line>
+      <![CDATA[3---->>>>Reading Level Progress Functionality :true]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38826" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:38:29Z">
+  <suite name="Default suite" duration-ms="116144" started-at="2019-05-28T10:56:03Z" finished-at="2019-05-28T10:57:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38826" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:38:29Z">
+    <test name="Default test" duration-ms="116144" started-at="2019-05-28T10:56:03Z" finished-at="2019-05-28T10:57:59Z">
       <class name="com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="beforeClass" is-config="true" duration-ms="22" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:37:50Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="beforeClass" is-config="true" duration-ms="17" started-at="2019-05-28T10:56:03Z" finished-at="2019-05-28T10:56:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="beforeMethod" is-config="true" duration-ms="10256" started-at="2019-05-21T04:37:50Z" finished-at="2019-05-21T04:38:00Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="beforeMethod" is-config="true" duration-ms="9947" started-at="2019-05-28T10:56:03Z" finished-at="2019-05-28T10:56:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="verifyRHO_TC3()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="verifyRHO_TC3" duration-ms="28500" started-at="2019-05-21T04:38:00Z" description="Validate Reading History " finished-at="2019-05-21T04:38:29Z">
+        <test-method status="PASS" signature="verifyFilter_TC1()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="verifyFilter_TC1" duration-ms="47499" started-at="2019-05-28T10:56:13Z" description="Validate Filters " finished-at="2019-05-28T10:57:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1---->>>>Login Functionality :true]]>
+            </line>
+            <line>
+              <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+            </line>
+            <line>
+              <![CDATA[***********Defult value for filter validation***************]]>
+            </line>
+            <line>
+              <![CDATA[By defult Instructional is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult English is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult Fiction is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult Nonfiction is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[By defult Unseen is selected :true]]>
+            </line>
+            <line>
+              <![CDATA[***********All values in filter Ribbon validation***************]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Instructional is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter English is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Fiction is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Nonfiction is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Unseen is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Independent is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Frustrational is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Spanish is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[After applying all fiter Seen is visible in Ribbon :true]]>
+            </line>
+            <line>
+              <![CDATA[3---->>>>Filter Functionality :true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFilter_TC1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-05-28T10:57:00Z" finished-at="2019-05-28T10:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="beforeMethod" is-config="true" duration-ms="4712" started-at="2019-05-28T10:57:00Z" finished-at="2019-05-28T10:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="verifyRHO_TC3()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="verifyRHO_TC3" duration-ms="34011" started-at="2019-05-28T10:57:05Z" description="Validate Reading History " finished-at="2019-05-28T10:57:39Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Reading History Functionality : Fail expected [true] but found [false]]]>
@@ -67,13 +217,49 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             <line>
               <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
             </line>
+            <line>
+              <![CDATA[----->>Default sorting validated for date column]]>
+            </line>
+            <line>
+              <![CDATA[----->>Sorting of Date column validated]]>
+            </line>
+            <line>
+              <![CDATA[----->>Sorting of Proficiency column validated]]>
+            </line>
+            <line>
+              <![CDATA[----->>Sorting last passage column validated]]>
+            </line>
+            <line>
+              <![CDATA[----->>Sorting Category column validation failed]]>
+            </line>
           </reporter-output>
         </test-method> <!-- verifyRHO_TC3 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-21T04:38:29Z" finished-at="2019-05-21T04:38:29Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="beforeMethod" is-config="true" duration-ms="4651" started-at="2019-05-28T10:57:39Z" finished-at="2019-05-28T10:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-28T10:57:39Z" finished-at="2019-05-28T10:57:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-05-21T04:38:29Z" finished-at="2019-05-21T04:38:29Z">
+        <test-method status="PASS" signature="verifyRLP_TC2()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="verifyRLP_TC2" duration-ms="15274" started-at="2019-05-28T10:57:44Z" description="Validate Reading Level Progress " finished-at="2019-05-28T10:57:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1---->>>>Login Functionality :true]]>
+            </line>
+            <line>
+              <![CDATA[2---->>>>Reach to ORR Functionality :true]]>
+            </line>
+            <line>
+              <![CDATA[3---->>>>Reading Level Progress Functionality :true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyRLP_TC2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-28T10:57:59Z" finished-at="2019-05-28T10:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-05-28T10:57:59Z" finished-at="2019-05-28T10:57:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>2/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue May 21 10:07:50 IST 2019</td>
+<td>Started on:</td><td>Tue May 28 16:26:03 IST 2019</td>
 </tr>
-<tr><td>Total time:</td><td>38 seconds (38826 ms)</td>
+<tr><td>Total time:</td><td>116 seconds (116144 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,12 +76,17 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR.verifyRHO_TC3()'><b>verifyRHO_TC3</b><br>Test class: com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR<br>Test method: Validate Reading History <br/>
-<a href="#Output-1809129176" onClick='toggleBox("Output-1809129176", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-975001918" onClick='toggleBox("Output-975001918", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1809129176" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1809129176">
+<a href="#Output-975001918" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-975001918">
 1---->>>>Login Functionality :true<br/>
 2---->>>>Reach to ORR Functionality :true<br/>
+----->>Default sorting validated for date column<br/>
+----->>Sorting of Date column validated<br/>
+----->>Sorting of Proficiency column validated<br/>
+----->>Sorting last passage column validated<br/>
+----->>Sorting Category column validation failed<br/>
 </div>
 </td>
 <td><div><pre>java.lang.AssertionError: Reading History Functionality : Fail expected [true] but found [false]
@@ -114,8 +119,8 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1809129176", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1809129176'><pre>java.lang.AssertionError: Reading History Functionality : Fail expected [true] but found [false]
+</pre></div><a href='#' onClick='toggleBox("stack-trace975001918", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace975001918'><pre>java.lang.AssertionError: Reading History Functionality : Fail expected [true] but found [false]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
 	at org.testng.Assert.assertTrue(Assert.java:44)
@@ -146,8 +151,60 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>28</td>
-<td>com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@14dd9eb7</td></tr>
+<td>34</td>
+<td>com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR.verifyFilter_TC1()'><b>verifyFilter_TC1</b><br>Test class: com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR<br>Test method: Validate Filters <br/>
+<a href="#Output-1318227903" onClick='toggleBox("Output-1318227903", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1318227903" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1318227903">
+1---->>>>Login Functionality :true<br/>
+2---->>>>Reach to ORR Functionality :true<br/>
+***********Defult value for filter validation***************<br/>
+By defult Instructional is selected :true<br/>
+By defult English is selected :true<br/>
+By defult Fiction is selected :true<br/>
+By defult Nonfiction is selected :true<br/>
+By defult Unseen is selected :true<br/>
+***********All values in filter Ribbon validation***************<br/>
+After applying all fiter Instructional is visible in Ribbon :true<br/>
+After applying all fiter English is visible in Ribbon :true<br/>
+After applying all fiter Fiction is visible in Ribbon :true<br/>
+After applying all fiter Nonfiction is visible in Ribbon :true<br/>
+After applying all fiter Unseen is visible in Ribbon :true<br/>
+After applying all fiter Independent is visible in Ribbon :true<br/>
+After applying all fiter Frustrational is visible in Ribbon :true<br/>
+After applying all fiter Spanish is visible in Ribbon :true<br/>
+After applying all fiter Seen is visible in Ribbon :true<br/>
+3---->>>>Filter Functionality :true<br/>
+</div>
+</td>
+<td></td>
+<td>47</td>
+<td>com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8</td></tr>
+<tr>
+<td title='com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR.verifyRLP_TC2()'><b>verifyRLP_TC2</b><br>Test class: com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR<br>Test method: Validate Reading Level Progress <br/>
+<a href="#Output-1871678080" onClick='toggleBox("Output-1871678080", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1871678080" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1871678080">
+1---->>>>Login Functionality :true<br/>
+2---->>>>Reach to ORR Functionality :true<br/>
+3---->>>>Reading Level Progress Functionality :true<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR@3159c4b8</td></tr>
 </table><p>
 </body>
 </html>

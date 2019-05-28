@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
-                    <span>C:\Users\pratikshya.s\AppData\Local\Temp\testng-eclipse-1424642294\testng-customsuite.xml</span>
+                    <span>C:\Users\pratikshya.s\AppData\Local\Temp\testng-eclipse--1308712032\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">3 methods, 1 failed,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -106,6 +106,25 @@
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Default_suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR" hash-for-method="verifyFilter_TC1">verifyFilter_TC1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR" hash-for-method="verifyRLP_TC2">verifyRLP_TC2</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -166,10 +185,36 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Default_suite-class-failed -->
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyFilter_TC1">
+                  </a> <!-- verifyFilter_TC1 -->
+                  <span class="method-name">verifyFilter_TC1</span>
+                  <em>
+(Validate Filters )                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyRLP_TC2">
+                  </a> <!-- verifyRLP_TC2 -->
+                  <span class="method-name">verifyRLP_TC2</span>
+                  <em>
+(Validate Reading Level Progress )                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\pratikshya.s\AppData\Local\Temp\testng-eclipse-1424642294\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\pratikshya.s\AppData\Local\Temp\testng-eclipse--1308712032\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -178,11 +223,7 @@
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Default suite&quot;&gt;
   &lt;test thread-count=&quot;5&quot; verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR&quot;&gt;
-        &lt;methods&gt;
-          &lt;include name=&quot;verifyRHO_TC3&quot;/&gt;
-        &lt;/methods&gt;
-      &lt;/class&gt; &lt;!-- com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR --&gt;
+      &lt;class name=&quot;com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Default test --&gt;
 &lt;/suite&gt; &lt;!-- Default suite --&gt;
@@ -222,16 +263,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'verifyRHO_TC3')
+data.setCell(0, 1, 'verifyFilter_TC1')
 data.setCell(0, 2, 'com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR')
-data.setCell(0, 3, 28500);
+data.setCell(0, 3, 47499);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verifyRHO_TC3')
+data.setCell(1, 2, 'com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR')
+data.setCell(1, 3, 34011);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifyRLP_TC2')
+data.setCell(2, 2, 'com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR')
+data.setCell(2, 3, 15274);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 28 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -243,28 +292,56 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyFilter_TC1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">1---->>>>Login Functionality :true</span>
+                <span class="reporter-method-output">2---->>>>Reach to ORR Functionality :true</span>
+                <span class="reporter-method-output">***********Defult value for filter validation***************</span>
+                <span class="reporter-method-output">By defult Instructional is selected :true</span>
+                <span class="reporter-method-output">By defult English is selected :true</span>
+                <span class="reporter-method-output">By defult Fiction is selected :true</span>
+                <span class="reporter-method-output">By defult Nonfiction is selected :true</span>
+                <span class="reporter-method-output">By defult Unseen is selected :true</span>
+                <span class="reporter-method-output">***********All values in filter Ribbon validation***************</span>
+                <span class="reporter-method-output">After applying all fiter Instructional is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter English is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter Fiction is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter Nonfiction is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter Unseen is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter Independent is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter Frustrational is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter Spanish is visible in Ribbon :true</span>
+                <span class="reporter-method-output">After applying all fiter Seen is visible in Ribbon :true</span>
+                <span class="reporter-method-output">3---->>>>Filter Functionality :true</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyRLP_TC2</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">1---->>>>Login Functionality :true</span>
+                <span class="reporter-method-output">2---->>>>Reach to ORR Functionality :true</span>
+                <span class="reporter-method-output">3---->>>>Reading Level Progress Functionality :true</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
               <span class="reporter-method-name">verifyRHO_TC3</span>
               <div class="reporter-method-output-div">
                 <span class="reporter-method-output">1---->>>>Login Functionality :true</span>
                 <span class="reporter-method-output">2---->>>>Reach to ORR Functionality :true</span>
+                <span class="reporter-method-output">----->>Default sorting validated for date column</span>
+                <span class="reporter-method-output">----->>Sorting of Date column validated</span>
+                <span class="reporter-method-output">----->>Sorting of Proficiency column validated</span>
+                <span class="reporter-method-output">----->>Sorting last passage column validated</span>
+                <span class="reporter-method-output">----->>Sorting Category column validation failed</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">2 ignored methods</span>
+            <span class="header-content">0 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.benchmark.testcases.home.VerifyOralReadingRecordReportsORR</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">verifyFilter_TC1</span>
-                <br/>
-                <span class="ignored-method-name">verifyRLP_TC2</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-Default_suite" class="panel">
@@ -280,21 +357,45 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod</span>
-                <span class="method-start">35 ms</span>
+                <span class="method-start">28 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyFilter_TC1</span>
+                <span class="method-start">9975 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">57476 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">57477 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">verifyRHO_TC3</span>
-                <span class="method-start">10291 ms</span>
+                <span class="method-start">62189 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod</span>
-                <span class="method-start">38797 ms</span>
+                <span class="method-start">96202 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">96202 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyRLP_TC2</span>
+                <span class="method-start">100853 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">116129 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-class after">
                 <span class="method-name">afterClass</span>
-                <span class="method-start">38798 ms</span>
+                <span class="method-start">116129 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -3020,25 +3020,3 @@ Test Steps:
  3.Validates the current url.
 
 2019-05-28 16:20:54 INFO  CustomTestNGReport:88 - CSV - Summary data file created successfully.
-2019-05-28 16:22:27 INFO  MailOperations:88 - Mail has sent successfully with report attachment.
-2019-05-28 16:22:37 INFO  Log:88 - Test suites execution completed @ 2019-05-28 16:22:37.053  
--------------------------------------------------------------------------------------------------------------------------
-2019-05-28 16:22:37 INFO  Log:88 - Stopping WebDriver
-2019-05-28 16:26:09 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-28 16:26:09.194  
-------------------------------------------------------------------------------------------------------------------------- 
-Description: Validate ORR. 
-Test Steps: 
- Report Page Validation(Filter,RLP,RHO)
-
-2019-05-28 16:27:01 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-28 16:27:01.417  
-------------------------------------------------------------------------------------------------------------------------- 
-Description: Validate ORR. 
-Test Steps: 
- Report Page Validation(Filter,RLP,RHO)
-
-2019-05-28 16:27:40 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-28 16:27:40.066  
-------------------------------------------------------------------------------------------------------------------------- 
-Description: Validate ORR. 
-Test Steps: 
- Report Page Validation(Filter,RLP,RHO)
-
