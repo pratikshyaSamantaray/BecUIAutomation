@@ -3042,3 +3042,180 @@ Description: Validate ORR.
 Test Steps: 
  Report Page Validation(Filter,RLP,RHO)
 
+2019-05-29 08:26:42 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:26:42.716  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:27:08 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:27:08.592  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:27:26 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <span class="close-icon-title close-filter1">...</span> is not clickable at point (123, 317). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64554}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 203e353194ae98557e9c27ca529a6ec3
+2019-05-29 08:27:28 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:27:28.163  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:27:58 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:27:58.420  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:30:06 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:30:06.313  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:47:15 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:47:15.375  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:48:30 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:48:30.243  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:50:50 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:50:50.363  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 08:53:04 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 08:53:04.886  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 09:00:43 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 09:00:43.967  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 09:01:11 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 09:01:11.160  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 09:01:29 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <span class="close-icon-title close-filter1">...</span> is not clickable at point (123, 317). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:65272}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 251620e68d0d4e7a958aeda41582a398
+2019-05-29 09:01:30 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 09:01:30.479  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 09:07:25 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 09:07:25.373  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 09:07:51 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 09:07:51.740  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 09:09:14 ERROR ReportPageOperationsORR:82 - Expected condition failed: waiting for presence of any elements located by By.xpath: //div[@class='student-list-header rho-header']//span[contains(text(),'Reading Level')] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:65445}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 2051b3b73b873b00ee188cdc6a074cb3
+2019-05-29 09:09:16 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 09:09:16.806  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:11:47 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:11:47.905  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:12:23 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:12:23.549  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:12:44 ERROR ReportPageOperationsORR:82 - element click intercepted: Element <span class="close-icon-title close-filter1">...</span> is not clickable at point (123, 317). Other element would receive the click: <div class="back-drop"></div>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TSD-PRATIKSHYA', ip: '192.168.10.168', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\PRATIK~1.S\AppData...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49529}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 4548cd76a1f89b3fcf59cbe8d82a9e34
+2019-05-29 11:12:45 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:12:45.916  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:14:36 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:14:36.654  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:20:01 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:20:01.771  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:23:04 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:23:04.126  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:25:38 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:25:38.219  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:27:51 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:27:51.876  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+
+2019-05-29 11:50:11 INFO  Log:88 - TestCase - VerifyOralReadingRecordReportsORR, started @ 2019-05-29 11:50:11.643  
+------------------------------------------------------------------------------------------------------------------------- 
+Description: Validate ORR. 
+Test Steps: 
+ Report Page Validation(Filter,RLP,RHO)
+

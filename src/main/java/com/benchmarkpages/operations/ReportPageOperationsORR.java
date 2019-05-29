@@ -95,46 +95,51 @@ public class ReportPageOperationsORR {
 			}
 			SeleniumWrapper.waitTillElementToBeClickableAndClick("XPATH", reportPage.getApplyButtonXpath());
 			wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(reportPage.getHeadersOfRHOXpath(headerOfRHO[1]))));
-			//*-----------Default sort for date column:Descending Order-----------*//
-			List<WebElement> listdefault = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getDateColumnXpath()));
-			String strArraydefault[] = new String[listdefault.size()];
-			Date[] dated = new Date[listdefault.size()];
-			for (int i=0; i< listdefault.size(); i++) strArraydefault[i]=listdefault.get(i).getText();
-			ArrayList<Date> datedefault=new ArrayList();
-			boolean sorted = Ordering.natural().isOrdered(datedefault);
-			if (sorted) {
-		  		System.out.println("Default checking done");
-				Reporter.log("----->>Default sorting validated for date column");
-			}
-			else {
-				System.out.println("default checking not done");
-				Reporter.log("----->>Default sorting validation Failed for date column");
-			}
+			Thread.sleep(5000);
+
 			//*-------------Check sort for date column-------------*/ /
 			wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath(reportPage.getEntireRHOChartXpath())));
 			List<WebElement> list = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getDateColumnXpath()));
 			String strArray[] = new String[list.size()];
-			Date[] date = new Date[list.size()];
-			for (int i=0; i< list.size(); i++) strArray[i]=list.get(i).getText();
-			ArrayList<Date> dates=new ArrayList();
+			for (int i=0; i< list.size(); i++) 
+				strArray[i]=list.get(i).getText();
+			ArrayList<Date> dates=new ArrayList<>();
+			ArrayList<Date> datesDecending=new ArrayList<>();
 			SimpleDateFormat format=new SimpleDateFormat("MM/dd/yyyy");
-			for(int i=0;i<strArray.length;i++) dates.add(format.parse(strArray[i]));
+			for(int i=0;i<strArray.length;i++) 
+				dates.add(format.parse(strArray[i]));
 			Collections.sort(dates);
+			datesDecending=dates;
+			Collections.sort(dates,Collections.reverseOrder());
+			int flag=-1;
+				 for(int i=0;i<datesDecending.size();i++){
+					 flag=dates.get(i).compareTo(datesDecending.get(i));
+				 } 
+				 if (flag==0) 
+					Reporter.log("----->>Default order of Date column validated");
+				 else
+					 Reporter.log("----->>Default order of Date column validation failed");
+			
 			reportPage.getSortOptionDateAscending().click();
 			List<WebElement> listAS = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getDateColumnXpath()));
 			String strArrayAS[] = new String[listAS.size()];
-			for (int i = 0; i < listAS.size(); i++) strArrayAS[i]=listAS.get(i).getText();
+			for (int i = 0; i < listAS.size(); i++) 
+				strArrayAS[i]=listAS.get(i).getText();
 			ArrayList<Date> datesAS=new ArrayList<>();
-			for(int i=0;i<strArrayAS.length;i++) datesAS.add(format.parse(strArrayAS[i]));
+			for(int i=0;i<strArrayAS.length;i++) 
+				datesAS.add(format.parse(strArrayAS[i]));
 			if(dates.size()==datesAS.size())
 			{
+				 flag=-1;
 				 for(int i=0;i<strArrayAS.length;i++){
-				 int flag=dates.get(i).compareTo(datesAS.get(i));
-				 System.out.println(flag);
+					 flag=dates.get(i).compareTo(datesAS.get(i));
+					 System.out.println(flag);
 				 } 
-				 Reporter.log("----->>Sorting of Date column validated");
+				 if (flag==0) 
+					Reporter.log("----->>Sorting of Date column validated");
+				 else
+					 Reporter.log("----->>Sorting of Date column validation failed");
 			}
-			else Reporter.log("----->>Sorting of Date column validation failed");
 			
 			//*-------------Check sort for Reading Level column-------------*//
 		       //Will be done after data modification
@@ -142,25 +147,36 @@ public class ReportPageOperationsORR {
 			//*-------------Check sort for Proficiency column-------------*// 
 			List<WebElement> listproficiency = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getProficiencyColumnXpath()));
 			String[] prof = new String[listproficiency.size()];
-			for (int i=0; i<listproficiency.size(); i++) prof[i]=listproficiency.get(i).getText();
+			for (int i=0; i<listproficiency.size(); i++) 
+				prof[i]=listproficiency.get(i).getText();
 			Arrays.sort(prof);
 			reportPage.getSortOptionProfAscending().click();
 			List<WebElement> listproficiencyAS = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getProficiencyColumnXpath()));
 			String[] profAS = new String[listproficiencyAS.size()];
-			for(int i=0; i<listproficiencyAS.size(); i++) profAS[i]=listproficiencyAS.get(i).getText();
-			if (Arrays.equals(prof, profAS)) Reporter.log("----->>Sorting of Proficiency column validated");
-			else Reporter.log("----->>Sorting of Proficiency validation failed");
+			for(int i=0; i<listproficiencyAS.size(); i++) 
+			
+				profAS[i]=listproficiencyAS.get(i).getText();
+			if (Arrays.equals(prof, profAS)) 
+				Reporter.log("----->>Sorting of Proficiency column validated");
+			else 
+				Reporter.log("----->>Sorting of Proficiency validation failed");
 			//*-------------Check sort for Last Passage column-------------*//
+			
 			List<WebElement> listLastPassage = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getLastPassageColumnXpath()));
 			String[] lastpassage = new String[listLastPassage.size()];
-			for (int i=0; i<listLastPassage.size(); i++) lastpassage[i]=listLastPassage.get(i).getText();
+			for (int i=0; i<listLastPassage.size(); i++) 
+				lastpassage[i]=listLastPassage.get(i).getText();
 			Arrays.sort(lastpassage);
+			for(String s:lastpassage) System.out.println("hame tumse pyar kitna ------ "+s);
 			reportPage.getSortOptionLastPassageAscending().click();
 			List<WebElement> listLastPassageAS = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getLastPassageColumnXpath()));
 			String[] lastpassageAS = new String[listLastPassageAS.size()];
-			for (int i=0; i<listLastPassageAS.size(); i++) lastpassageAS[i]=listLastPassageAS.get(i).getText();
-			if (Arrays.equals(lastpassage, lastpassageAS)) Reporter.log("----->>Sorting last passage column validated");
-			else Reporter.log("----->>Sorting last passage column validation failed");
+			for (int i=0; i<listLastPassageAS.size(); i++) 
+				lastpassageAS[i]=listLastPassageAS.get(i).getText();
+			if (Arrays.equals(lastpassage, lastpassageAS)) 
+				Reporter.log("----->>Sorting last passage column validated");
+			else 
+				Reporter.log("----->>Sorting last passage column validation failed");
 			//*-------------Check sort for Category column-------------*//
 			List<WebElement> listcategory = SeleniumWrapper.webDriver().findElements(By.xpath(reportPage.getCategoryColumnXpath()));
 			String[] category = new String[listcategory.size()];
